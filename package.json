@@ -1,0 +1,10 @@
+{
+  "name": "ccb-rich-output",
+  "version": "1.0.0",
+  "description": "Rich output formatter - markdown, code blocks, tables, diffs",
+  "scripts": {
+    "start": "node scripts/main.*"
+  },
+  "keywords": ["openclaw", "ccb", "rich-output"],
+  "license": "MIT"
+}
